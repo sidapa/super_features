@@ -7,10 +7,10 @@ Gem::Specification.new do |spec|
   spec.name          = "super_features"
   spec.version       = SuperFeatures::VERSION
   spec.authors       = ["Adrian Joseph Tumusok"]
-  spec.email         = ["adrian@egissys.com"]
+  spec.email         = ["me@adriantumusok.com"]
 
-  spec.summary       = %q{TODO: Write a short summary, because Rubygems requires one.}
-  spec.description   = %q{TODO: Write a longer description or delete this line.}
+  spec.summary       = %q{SuperFeatures allow feature flags to be implemented via a variety of datastores}
+  spec.description   = %q{SuperFeatures allow feature flags to be implemented via a variety of datastores}
   spec.homepage      = "TODO: Put your gem's website or public repo URL here."
   spec.license       = "MIT"
 
